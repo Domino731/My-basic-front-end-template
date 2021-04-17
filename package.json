@@ -1,0 +1,27 @@
+{
+  "name": "my-basic-front-end-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascipt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domino731/My-basic-front-end-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Domino731/My-basic-front-end-template/issues"
+  },
+  "homepage": "https://github.com/Domino731/My-basic-front-end-template#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.32.10"
+  }
+}
